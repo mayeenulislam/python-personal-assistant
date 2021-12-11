@@ -1,11 +1,3 @@
-autopep8           1.6.0
-beautifulsoup4     4.10.0
-certifi            2021.10.8
-charset-normalizer 2.0.9
-comtypes           1.1.10
-idna               3.3
-
-(venv_project1) C:\Users\mayeenulislam\Desktop\python>pip freeze
 autopep8==1.6.0
 beautifulsoup4==4.10.0
 certifi==2021.10.8
@@ -14,7 +6,7 @@ comtypes==1.1.10
 idna==3.3
 MouseInfo==0.1.3
 Pillow==8.4.0
-PyAudio @ file:///C:/Users/mayeenulislam/Desktop/python/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
+PyAudio @ file:///C:/Users/mayeenulislam/Desktop/python/virtual-assistant/wheels/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 PyAutoGUI==0.9.53
 pycodestyle==2.8.0
 PyGetWindow==0.0.9
