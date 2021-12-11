@@ -34,6 +34,22 @@ pip install -r requirements.txt
 > **pyAudio Issue on Windows**<br>
 > See the [StackOverflow thread](https://stackoverflow.com/a/55630212/1743124) to solve the issue
 
+Now run the application:
+
+```bash
+python main.py
+```
+
+## Available commands
+
+* "open calculator" _or_ "open calc"
+* "open command prompt" _or_ "open cmd"
+* "open camera"
+* "wikipedia"
+* "youtube"
+* "search on google"
+* "say your name"
+
 ## Original Tutorial
 
 * [FreeCodeCamp Article](https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/)
