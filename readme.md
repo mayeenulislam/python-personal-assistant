@@ -1,4 +1,4 @@
-# Python Personal Assistant (Tryout)
+# Python Virtual Assistant (Tryout)
 
 This repository is to try out a simple Virtual Personal Assistant using Python 3. The repository was tried based on the FreeCodeCamp Tutorial by _Ashutosh Krishna_.
 
