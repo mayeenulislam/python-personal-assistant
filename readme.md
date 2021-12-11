@@ -1,7 +1,40 @@
 # Python Personal Assistant (Tryout)
 
-This repository is to tryout a simple Personal Assistant using Python 3. The repository was tried based on the FreeCodeCamp Tutorial by Ashutosh Krishna. The following repository was the base of the tutorial:
+This repository is to try out a simple Virtual Personal Assistant using Python 3. The repository was tried based on the FreeCodeCamp Tutorial by _Ashutosh Krishna_.
 
-Original Tutorial Github Repo:
-> **Ashutosh Krishna**
-> https://github.com/ashutoshkrris/Virtual-Personal-Assistant-using-Python
+## Usage
+
+```bash
+git clone git@github.com:mayeenulislam/python-virtual-assistant.git && cd python-virtual-assistant
+```
+
+### Using Virtual Environment (`venv`) - _optional_
+
+If you want to use Python3 Virtual Environment, use the following commands:
+
+```bash
+python -m venv venv
+```
+
+```bash
+# On Linux/Mac the following command:
+# ./venv/Scripts/activate
+
+# On Windows the following command:
+.\venv\Scripts\activate.bat
+```
+
+### Use
+
+```bash
+pip install -r requirements.txt
+```
+
+> **-- NOTICE --**<br>
+> **pyAudio Issue on Windows**<br>
+> See the [StackOverflow thread](https://stackoverflow.com/a/55630212/1743124) to solve the issue
+
+## Original Tutorial
+
+* [FreeCodeCamp Article](https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/)
+* [Github Repository](https://github.com/ashutoshkrris/Virtual-Personal-Assistant-using-Python)
